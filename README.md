@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Esmira Mamedova
 
-<!--
-**Esmira-Mamedova/Esmira-Mamedova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with a background in Financial Services, focused on
+data analysis, business intelligence, process improvement and automation.
 
-Here are some ideas to get you started:
+🛠 Tools & Technologies
+• Power BI & Power Query
+• SQL
+• Excel
+• Python
+• Calypso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📊 Featured Projects
+• US Leading Causes of Death — Power BI
+
+🎓 Certification
+• Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+
 -->
