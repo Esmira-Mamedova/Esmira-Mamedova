@@ -11,7 +11,7 @@ data analysis, business intelligence, process improvement and automation.
 • Calypso
 
 📊 Featured Projects
-• US Leading Causes of Death — Power BI
+• Impact of AI on Students — Power BI
 
 🎓 Certification
 • Microsoft Certified: Power BI Data Analyst Associate (PL-300)
